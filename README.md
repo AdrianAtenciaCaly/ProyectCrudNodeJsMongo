@@ -2,7 +2,7 @@ NODE JS: API REST (CRUD) con MongoDB
 Este repositorio tiene una API-REST realizada con Node.js y MongoDB la cual nos sirve para hacer un CRUD (alta, baja, modificación y lectura) sobre libros. Este repositorio pertenece al curso de NODE.JS
 
 Uso
-Cloná el repositorio haciendo git clone https://github.com/sergiecode/node_api_rest_mongo
+Cloná el repositorio haciendo git clone https://github.com/AdrianAtenciaCaly/ProyectCrudNodeJsMongo
 Abrí el proyecto en su editor de código
 Instalá de los paquetes y módulos requeridos: npm install
 Agrega las variables de entorno que correspondan usando como plantilla .env.template
